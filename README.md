@@ -33,10 +33,10 @@
   <結果如下圖><br>
 ![alt text](https://github.com/wlo1227686/Removable_USB_Drive_MacOS/blob/master/img/img04.jpg)<br><br>
 步驟五：<br>
-  1. 按下Enter送出<br>
-  2. 輸入密碼 <br>
-  3. 輸入 "y" <br>
-  4. 一直等待大約半小時(看電腦狀態)<br>
+  1.  按下Enter送出<br>
+  2.  輸入密碼 <br>
+  3.  輸入 "y" <br>
+  4.  一直等待大約半小時(看電腦狀態)<br>
    <結果如下圖><br>
 ![alt text](https://github.com/wlo1227686/Removable_USB_Drive_MacOS/blob/master/img/img05.jpg)<br><br>
 
@@ -45,5 +45,5 @@
 ![alt text](https://github.com/wlo1227686/Removable_USB_Drive_MacOS/blob/master/img/img06.jpg)<br><br>
 
 ps:<br>
-因為會等很久,你可以點開USB的簡介觀察以使用量慢慢的變大 <br><br>
+因為會等很久,你可以點開USB的簡介觀察已使用量慢慢的變大 <br><br>
 ![alt text](https://github.com/wlo1227686/Removable_USB_Drive_MacOS/blob/master/img/img07.jpg)<br><br>
