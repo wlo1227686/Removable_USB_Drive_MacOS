@@ -25,11 +25,11 @@
 步驟四：<br>
  按下步驟在終端機輸入(不包含"")<br>
   1. "sudo "<br>
-  2.將Createinstallmedia 拖入終端機(路徑會自行輸入)<br>
+  2. 將Createinstallmedia 拖入終端機(路徑會自行輸入)<br>
   3. " --volume "<br>
-  4.將 USB 拖入終端機(路徑會自行輸入)<br>
+  4. 將 USB 拖入終端機(路徑會自行輸入)<br>
   5. " --applicationpath "<br>
-  6.將 安裝 macOS Sierra 拖入終端機(路徑會自行輸入)<br>
+  6. 將 安裝 macOS Sierra 拖入終端機(路徑會自行輸入)<br>
   <結果如下圖><br>
 ![alt text](https://github.com/wlo1227686/Removable_USB_Drive_MacOS/blob/master/img/img04.jpg)<br><br>
 步驟五：<br>
