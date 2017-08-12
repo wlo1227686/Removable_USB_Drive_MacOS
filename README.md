@@ -1,5 +1,4 @@
 # Removable_USB_Drive_MacOS
-<br>
 製作一支ＭacOS USB :<br>
   1.準備一隻空的USB (至少8G)<br>
   2.MacOS 安裝檔<br>
@@ -21,7 +20,6 @@
       (找到Createinstallmedia)<br>
    3. 開啟終端機<br>
       <依照下圖排列視窗> <br>
-<br>
 ![alt text](https://github.com/wlo1227686/Removable_USB_Drive_MacOS/blob/master/img/img03.jpg)<br><br>
 
 步驟四：<br>
