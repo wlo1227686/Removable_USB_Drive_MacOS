@@ -1,28 +1,22 @@
 # Removable_USB_Drive_MacOS
 <br>
-<br>
-製作一支ＭacOS USB :
+製作一支ＭacOS USB :<br>
   1.準備一隻空的USB (至少8G)<br>
   2.MacOS 安裝檔<br>
-<br><br><br>
+<br><br>
 步驟一：<br>
-  開啟App Store 下載 mac os Sierra 安裝程式<br>
-<br>
+  開啟App Store 下載 mac os Sierra 安裝程式<br><br>
 ![alt text](https://github.com/wlo1227686/Removable_USB_Drive_MacOS/blob/master/img/img01.jpg)<br><br>
-
 步驟二：<br>
   製作一支USB<br>
   Launchpad -> 其他 -> 磁碟工具程式 -> 清除 <br>
-  格式依照下圖（名稱隨意）<br> 
-<br>
+  格式依照下圖（名稱隨意）<br><br>
 ![alt text](https://github.com/wlo1227686/Removable_USB_Drive_MacOS/blob/master/img/img02.jpg)<br><br>
-
 步驟三：<br>
   準備2個Finder視窗<br>
   <br>
    1. Finder -> 應用程式<br>
       (找到 安裝 macOS Sierra)<br> 
-<br>
    2. 安裝 macOS Sierra 對圖示按右鍵 -> 顯示套件內容 -> Contents -> Resources<br>
       (找到Createinstallmedia)<br>
    3. 開啟終端機<br>
