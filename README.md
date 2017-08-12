@@ -14,30 +14,30 @@
 步驟三：<br>
   準備2個Finder視窗<br>
   <br>
-   1. Finder -> 應用程式<br>
+   1.Finder -> 應用程式<br>
       (找到 安裝 macOS Sierra)<br> 
-   2. 安裝 macOS Sierra 對圖示按右鍵 -> 顯示套件內容 -> Contents -> Resources<br>
+   2.安裝 macOS Sierra 對圖示按右鍵 -> 顯示套件內容 -> Contents -> Resources<br>
       (找到Createinstallmedia)<br>
-   3. 開啟終端機<br>
+   3.開啟終端機<br>
       <依照下圖排列視窗> <br>
 ![alt text](https://github.com/wlo1227686/Removable_USB_Drive_MacOS/blob/master/img/img03.jpg)<br><br>
 
 步驟四：<br>
  按下步驟在終端機輸入(不包含"")<br>
-  1. "sudo "<br>
-  2. 將Createinstallmedia 拖入終端機(路徑會自行輸入)<br>
-  3. " --volume "<br>
-  4. 將 USB 拖入終端機(路徑會自行輸入)<br>
-  5. " --applicationpath "<br>
-  6. 將 安裝 macOS Sierra 拖入終端機(路徑會自行輸入)<br>
+  1."sudo "<br>
+  2.將Createinstallmedia 拖入終端機(路徑會自行輸入)<br>
+  3." --volume "<br>
+  4.將 USB 拖入終端機(路徑會自行輸入)<br>
+  5." --applicationpath "<br>
+  6.將 安裝 macOS Sierra 拖入終端機(路徑會自行輸入)<br>
   <結果如下圖><br>
 ![alt text](https://github.com/wlo1227686/Removable_USB_Drive_MacOS/blob/master/img/img04.jpg)<br><br>
 步驟五：<br>
-  1.  按下Enter送出<br>
-  2.  輸入密碼 <br>
-  3.  輸入 "y" <br>
-  4.  一直等待大約半小時(看電腦狀態)<br>
-   <結果如下圖><br>
+  1.按下Enter送出<br>
+  2.輸入密碼 <br>
+  3.輸入 "y" <br>
+  4.一直等待大約半小時(看電腦狀態)<br>
+    <結果如下圖><br>
 ![alt text](https://github.com/wlo1227686/Removable_USB_Drive_MacOS/blob/master/img/img05.jpg)<br><br>
 
 步驟六：<br>
